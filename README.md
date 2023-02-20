@@ -1,7 +1,8 @@
 # chatGPTBot
 A Python Discord bot which integrates chatGPT functionality into a Discord slash command
 
-This requires an openAI account and a discord server with developer mode enabled. 
+This requires an ==openAI account== and a ==discord server with developer mode== enabled. 
+---
 To use this code after cloning this repo, create an  ````.env```` file, and add the following to the file:
 
 ```` 
