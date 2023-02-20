@@ -5,4 +5,5 @@ To use this code after cloning this repo, create an  ````.env```` file, and add 
 
 ```` 
 DISCORD_TOKEN = (add your token from the discord developer portal here)
-CHATGPT_API_KEY = (add your key from the chatGPT, generated from beta.openai.com/account/api-keys)````
+CHATGPT_API_KEY = (add your key from the chatGPT, generated from beta.openai.com/account/api-keys)
+````
