@@ -5,8 +5,5 @@ THIS WILL NOT WORK UNLESS A ````.env```` FILE IS ADDED TO A CLONED VERSION OF TH
 
 This file should contain only the following:
 
-```` 
-DISCORD_TOKEN = (add your token from the discord developer portal here)
-CHATGPT_API_KEY = (add your key from the chatGPT, generated [here](beta.openai.com/account/api-keys)
-
-````
+```` DISCORD_TOKEN = (add your token from the discord developer portal here)
+CHATGPT_API_KEY = (add your key from the chatGPT, generated from beta.openai.com/account/api-keys)````
